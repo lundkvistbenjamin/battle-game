@@ -3,7 +3,7 @@ A command line turn-based battle game where players fight with characters using 
 
 ## Features
 - Turn-based combat
-- Multiple characters to choose from
+- Multiple weapons to choose from
 - Simple command line interface
 
 ## Installation
