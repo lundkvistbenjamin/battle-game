@@ -13,3 +13,7 @@ Clone the repository and run the game locally.
 git clone https://github.com/lundkvistbenjamin/battle-game.git
 cd battle-game
 java -jar battle-game.jar
+```
+
+## **License**  
+MIT License  
